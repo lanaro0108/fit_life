@@ -1,9 +1,9 @@
 # Documento de Especificação de Requisitos de Software (SRS)
 
-**Aplicativo de Monitoramento Fitness (Flutter + Provider)**
-**Versão:** 1.0
-**Data:** 30/04/2026
-**Link Prototipagem:** https://www.figma.com/design/QDwCB20KHTEGgHCA7xhMCU/Dashboard-Responsivo---Flutter?node-id=0-1&t=2WSY3Y4A8zJ9cUn9-1
+- **Aplicativo de Monitoramento Fitness (Flutter)**
+- **Versão:** 1.0
+- **Data:** 30/04/2026
+- **Link Prototipagem:** https://www.figma.com/design/QDwCB20KHTEGgHCA7xhMCU/Dashboard-Responsivo---Flutter?node-id=0-1&t=2WSY3Y4A8zJ9cUn9-1
 
 
 ---
