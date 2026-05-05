@@ -26,6 +26,7 @@ class FitLife extends StatelessWidget {
     return MaterialApp(
       title: 'FitLife',
       debugShowCheckedModeBanner: false,
+      // Definindo temas claro e escuro
       theme: AppTheme.light,
       darkTheme: AppTheme.dark,
       themeMode: isDark ? ThemeMode.dark : ThemeMode.light,
