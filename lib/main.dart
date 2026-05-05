@@ -1,8 +1,8 @@
-import 'package:fit_life/controller/atividades_controller.dart';
-import 'package:fit_life/theme/app_theme.dart';
-import 'package:fit_life/view/home_page.dart';
-import 'package:fit_life/view/splash_page.dart';
-import 'package:fit_life/widgets/bnbar.dart';
+import './controller/atividades_controller.dart';
+import './theme/app_theme.dart';
+import './view/home_page.dart';
+import './view/splash_page.dart';
+import './widgets/bnbar.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

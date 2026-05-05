@@ -1,4 +1,4 @@
-import 'package:fit_life/controller/atividades_controller.dart';
+import '../controller/atividades_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

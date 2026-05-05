@@ -1,8 +1,8 @@
-import 'package:fit_life/controller/atividades_controller.dart';
-import 'package:fit_life/view/atividades_page.dart';
-import 'package:fit_life/view/config_page.dart';
-import 'package:fit_life/view/dashboard_page.dart';
-import 'package:fit_life/widgets/drawer.dart';
+import '/controller/atividades_controller.dart';
+import '/view/atividades_page.dart';
+import '/view/config_page.dart';
+import '/view/dashboard_page.dart';
+import '/widgets/drawer.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
