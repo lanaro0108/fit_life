@@ -6,7 +6,7 @@ import './widgets/bnbar.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-/// Ponto de entrada do aplicativo FitLife
+// Ponto de entrada do aplicativo FitLife
 void main() {
   runApp(
     ChangeNotifierProvider(
